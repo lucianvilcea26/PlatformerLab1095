@@ -42,16 +42,16 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Background
-    uniqueID: 309416885
+    uniqueID: 2535689119
     locked: 0
   - name: Level
-    uniqueID: 2285232815
+    uniqueID: 12376281
     locked: 0
   - name: Characters
-    uniqueID: 245283277
+    uniqueID: 4153328831
     locked: 0
   - name: Foreground
-    uniqueID: 3022773807
+    uniqueID: 1934145745
     locked: 0
   m_RenderingLayers:
   - Default
